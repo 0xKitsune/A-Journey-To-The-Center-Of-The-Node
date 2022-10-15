@@ -21,8 +21,10 @@ With all of that out of the way, enjoy the series and feel free to send me any q
 
 ## Table of Contents
 
-[Ethereum Chapter 1: The Mouth of The Cave]()
 
-[Ethereum Chapter 2: Into The Belly Of the Execution Client]()
+### Ethereum
+- [Chapter 1: The Mouth of The Cave]()
+
+- [Chapter 2: Into The Belly Of the Execution Client]()
 
 
